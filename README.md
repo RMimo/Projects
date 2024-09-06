@@ -1,5 +1,5 @@
 # Projects
-## [End-to-End Workflow for House Price Prediction Using Machine Learning](https://colab.research.google.com/drive/1jTEhWglRgdC5eMfFgaKAMcNDoV2HfqDe?usp=sharing)
+## [End-to-End Workflow For House Price Prediction Using Machine Learning](https://colab.research.google.com/drive/1jTEhWglRgdC5eMfFgaKAMcNDoV2HfqDe?usp=sharing)
 
 **Tag**: Data Science<br>
 **Keywords**: End-to-End Machine Learning Pipeline, Data Preprocessing, Feature Engineering, Model Training, Model Deployment, Neural Network, Price Prediction <br>
@@ -18,7 +18,7 @@ Image
 
 -->
 
-## [Earning Call Report Generation using Large Language Models](https://colab.research.google.com/drive/1qhf6yukdh87epegSNZ5fo8-vStrEyQew?usp=sharing)
+## [Earning Call Report Generation Using Large Language Models](https://colab.research.google.com/drive/1qhf6yukdh87epegSNZ5fo8-vStrEyQew?usp=sharing)
 
 **Tag**: Data Science, Quantitative Finance<br>
 **Keywords**: Large Language Models, Text Transcription, Text Summarization, Unstructured Data, Earning Calls, Sentiment Analysis <br>
