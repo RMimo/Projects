@@ -1,13 +1,6 @@
 # Projects
 ## [End-to-End Workflow For House Price Prediction Using Machine Learning](End_to_End_Workflow_for_House_Price_Prediction_Using_Machine_Learning.ipynb)
 
-<iframe
-    src="https://rmhalak-house-pricing-v1.hf.space/"
-    frameborder="0"
-    width="1200"
-    height="750"
-></iframe>
-
 **Tag**: Data Science<br>
 **Keywords**: End-to-End Machine Learning Pipeline, Data Preprocessing, Feature Engineering, Model Training, Model Deployment, Neural Network, Price Prediction <br>
 **Libraries**: tensorflow.keras, sklearn, pandas, numpy, pickle, json, matplotlib, streamlit<br>
