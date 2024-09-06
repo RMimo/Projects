@@ -1,5 +1,5 @@
 # Projects
-## [End-to-End Workflow For House Price Prediction Using Machine Learning](https://colab.research.google.com/drive/1jTEhWglRgdC5eMfFgaKAMcNDoV2HfqDe?usp=sharing)
+## [End-to-End Workflow For House Price Prediction Using Machine Learning](End_to_End_Workflow_for_House_Price_Prediction_Using_Machine_Learning.ipynb)
 
 **Tag**: Data Science<br>
 **Keywords**: End-to-End Machine Learning Pipeline, Data Preprocessing, Feature Engineering, Model Training, Model Deployment, Neural Network, Price Prediction <br>
