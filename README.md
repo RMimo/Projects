@@ -7,7 +7,7 @@ This notebook demonstrates the end-to-end process of building, training, and dep
 
 - **Libraries**: tensorflow.keras, sklearn, pandas, numpy, pickle, json, matplotlib, streamlit
 
-<! 
+<!--
 
 Quantization, RAG 
 - Vector Database Management: Set up and manage vector databases
@@ -17,7 +17,7 @@ Quantization, Fine-tuning
 
 Image
 
->
+-->
 
 ## [Earning Call Report Generation using Large Language Models](https://colab.research.google.com/drive/1qhf6yukdh87epegSNZ5fo8-vStrEyQew?usp=sharing)
 
