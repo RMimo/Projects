@@ -1,5 +1,5 @@
 # Projects
-## [Extracting Insights From Apple Inc.'s 2023 Form 10-K Report Using Retrieval-Augmented Generation](Extracting Insights From Apple Inc.'s 2023 Form 10-K Report Using Retrieval-Augmented Generation.ipynb)
+## [Extracting Insights From Apple Inc.'s 2023 Form 10-K Report Using Retrieval-Augmented Generation](Extracting_Insights_From_Apple_Inc_'s_2023_Form_10_K_Report_Using_Retrieval_Augmented_Generation_(RAG).ipynb)
 
 **Tag**: Data Science, Finance<br>
 **Keywords**: Retrieval-Augmented Generation, Large Language Models, Embedding Models, Unstructured Data, Data Preprocessing, Vector Database <br>
