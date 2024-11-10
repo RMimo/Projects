@@ -16,7 +16,13 @@ Naive RAG involves three primary phases:
    - Augments the user query with the retrieved chunks into a single prompt.
    - Generates an answer to the user query using a language model based on this combined information.
 
-However, Naive RAG has some pitfalls:
+## Naive RAG Pitfalls
+
+Naive RAG presents two main types of challenges:
+1. **Retrieval challenges**: selection of irrelevant chunks to query, missing crucial information.
+2. **Generation challenges**: the LLM struggles with hallucination and presents issues with relevance in its output.
+
+These challenges mainly occur due to:
 
 1. **Limited contextual understanding**:
    - Because naive RAG focus on **keyword matching** or basic semantic search, it retrieves irrelevant or partially relevant documents to the query. For example, a query like "*...the impact of climate change on polar bears*" would retrieve documents related with *climate change* and *polars bears* but not documents that talk about both *climate change* and *polars bears*.
@@ -30,5 +36,7 @@ However, Naive RAG has some pitfalls:
 4. **Inefficient Handling of Large-Scale Data**  
    - Standard retrieval methods can be inefficient at scale, making it challenging for Naive RAG to manage large datasets. This can cause delays in finding relevant documents or result in critical information being missed due to ineffective indexing.
 
+5. **Lack of Robustness and Adaptability**  
+   - Naive RAG lacks mechanisms to handle ambiguous or complex queries effectively. When queries contain multiple or nuanced questions, Naive RAG struggles to adapt, often failing to provide comprehensive answers due to its limited flexibility.
 
 
