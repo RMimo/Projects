@@ -18,8 +18,17 @@ Naive RAG involves three primary phases:
 
 However, Naive RAG has some pitfalls:
 
-1. Limited contextual understanding: 
+1. **Limited contextual understanding**:
+   - Because naive RAG focus on **keyword matching** or basic semantic search, it retrieves irrelevant or partially relevant documents to the query. For example, a query like "*...the impact of climate change on polar bears*" would retrieve documents related with *climate change* and *polars bears* but not documents that talk about both *climate change* and *polars bears*.
 
+2. **Inconsistent Relevance and Quality of Retrieved Documents**  
+   - Naive RAG may struggle with effective document ranking, which can result in irrelevant or low-quality inputs being fed into the model.
+
+3. **Poor Integration Between Retrieval and Generation**  
+   - In Naive RAG, the retriever and generator operate independently, often leading to a lack of coordination between retrieval results and generation context.
+
+4. **Inefficient Handling of Large-Scale Data**  
+   - Standard retrieval methods can be inefficient at scale, making it challenging for Naive RAG to manage large datasets. This can cause delays in finding relevant documents or result in critical information being missed due to ineffective indexing.
 
 
 
