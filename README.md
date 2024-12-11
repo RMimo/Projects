@@ -1,4 +1,11 @@
 # Projects
+## [Advanced Retrieval-Augmented Generation: Query Expansion](Advanced_RAG_Query_Expansion.ipynb)
+**Tag**: Data Science <br>
+**Keywords**: Advanced Retrieval-Augmented Generation, Query Optimization, Large Language Models, PDF Data Extraction, Data Preprocessing, Chunking, Vector Database <br>
+**Libraries**: langchain, langchain-chroma, langchain-huggingface, re, numpy, os <br>
+
+**Summary**: This notebook explores Advanced Retrieval-Augmented Generation (RAG) with a focus on query expansion techniques to improve information retrieval and generation. It begins with an overview of naive RAG and its pitfalls, highlighting limitations in handling complex queries. It then introduces query expansion methods, including hypothetical answer generation and multiple query chains, to enhance retrieval accuracy. The implementation section covers dependency installation, data preprocessing from PDFs, vector database creation, and leveraging pre-trained models. Advanced RAG techniques like hypothetical answer chains and multiple query approaches are demonstrated to optimize RAG for complex use cases.
+
 ## [Extracting Insights From Apple Inc.'s 2023 Form 10-K Report Using Retrieval-Augmented Generation](Extracting_Insights_From_Apple_Inc_'s_2023_Form_10_K_Report_Using_Retrieval_Augmented_Generation_(RAG).ipynb)
 
 **Tag**: Data Science, Finance<br>
