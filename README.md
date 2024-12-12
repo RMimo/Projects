@@ -1,3 +1,7 @@
+<!--
+Quantization, Fine-tuning, LLM Evaluation
+-->
+
 # Projects
 ## [Advanced Retrieval-Augmented Generation: Query Expansion](Advanced_RAG_Query_Expansion.ipynb)
 **Tag**: Data Science <br>
@@ -22,17 +26,6 @@
 
 **Summary**: This project demonstrates the end-to-end process of building, training, and deploying a fully-connected neural network for predicting house prices. The workflow begins by loading the dataset from Kaggle, followed by essential data preprocessing and feature generation, including normalization, bucketization, and one-hot encoding. The dataset is then split into training and testing sets. A sequential neural network model is constructed, trained with early stopping, and exported for future use. After loading the trained model, predictions are made on new data points. Finally, the model is deployed as a web application, allowing users to input features and receive price predictions via a user-friendly interface hosted on a cloud service (Hugging Face Spaces).
 
-
-<!--
-Quantization, RAG 
-- Vector Database Management: Set up and manage vector databases
-
-Quantization, Fine-tuning
-- Evaluate
-
-Image
-
--->
 
 ## [Earning Call Report Generation Using Large Language Models](Earning_Call_Report_Generation_Using_Large_Language_Models.ipynb)
 
